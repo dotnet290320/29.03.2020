@@ -12,7 +12,7 @@ namespace Project2903
         {
             Console.WriteLine("Hello world!");
 
-            // integer : -100, ... 0, 1, 2
+            // integer : -100, ... 0, 1, 2, 3
             // byte 0-255
             // long (large integer) : ....
             // float : 5.57
